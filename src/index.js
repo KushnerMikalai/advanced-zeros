@@ -29,6 +29,3 @@ module.exports = function getZerosCount(number, base) {
 
     return factorize(number)
 };
-
-// use info for solutions in:
-// https://stackoverflow.com/questions/23202489/how-does-this-code-find-the-number-of-trailing-zeros-from-any-base-number-factor
