@@ -1,5 +1,3 @@
-# My solution based in : [stackoverflow solutions](https://stackoverflow.com/questions/23202489/how-does-this-code-find-the-number-of-trailing-zeros-from-any-base-number-factor)
-
 # advanced-zeros
 
 Let's count zeros!
